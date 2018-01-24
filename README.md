@@ -1,4 +1,2 @@
-# testrepo
-my testrepo
-CompPrg	Math	Stats	ML	DomainEx	ComPresSk	DataVis
-3	4	1	2	4	3	3
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
